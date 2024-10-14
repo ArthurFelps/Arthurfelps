@@ -23,7 +23,7 @@ Dev cursando Engenharia de Computação na UNIUBE.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurFelps&repo=TCC-Senai&bg_color=057&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ArthurFelps/TCC-Senai)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurFelps&repo=Arduino-ESP32&bg_color=057&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ArthurFelps/Arduino-ESP32)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=username=ArthurFelps&repo=Arduino-ESP32&bg_color=057&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ArthurFelps/Arduino-ESP32)
 
 <!--
 **ArthurFelps/Arthurfelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
